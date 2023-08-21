@@ -1,2 +1,1 @@
-# simple_shell
-Project team: Antony Maged, CHAKIB Ayoub
+0x16. C - Simple Shell
